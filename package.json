@@ -1,0 +1,13 @@
+{
+  "id": "legalmail",
+  "name": "Legalmail",
+  "version": "1.0.0",
+  "description": "Legalmail",
+  "main": "index.js",
+  "author": "Stefano Pau <stefano.pau@welaika.com>",
+  "license": "MIT",
+  "repository": "https://github.com/meetfranz/recipe-franz-legalmail",
+  "config": {
+    "serviceURL": "https://webmail.infocert.it/legalmail/"
+  }
+}
